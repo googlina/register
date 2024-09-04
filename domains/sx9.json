@@ -1,12 +1,10 @@
-{ 
-  "description": "SX's Website", 
-  "repo": "https://sx-9.github.io", 
-  "owner": { 
-    "username": "SX-9", 
-    "twitter": "SX_Discord",
+{
+  "description": "SX's Website",
+  "owner": {
+    "username": "SX-9",
     "email": "sx-91@outlook.com"
   },
-  "record": { 
-    "CNAME": "sx9-1st-static-website.on.drv.tw" 
+  "record": {
+    "CNAME": "cname.short.io"
   }
 }
